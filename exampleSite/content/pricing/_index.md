@@ -3,17 +3,17 @@ title: Pricing
 subtitle: We have prices for production, mixing and mastering. Scroll down for options.
 description: This is meta description
 intro:
-  name: Full track beat production basic
+  name: Track production basic
   price: "£50"
   price_per: One time
-  info: Perfect for just releasing a new song
+  info: for just releasing a new song
   services:
   - Up to three percussion tracks
   - One bass track and lead
   - Two polyphonic instruments lines
   - Tuning and editing of up to two vocal lines
   - Up to two production revisions
-  - Song fully mixed and mastered, one revision included
+  - Mixed and mastered, one revision
   button:
     enable: true
     label: Try for free
