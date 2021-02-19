@@ -1,6 +1,5 @@
 +++
 description = "This is meta description"
-draft = true
 subtitle = "We have prices for production, mixing and mastering. Scroll down for options."
 title = "Pricing-(copy)"
 [base]
