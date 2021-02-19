@@ -35,3 +35,6 @@ Yes you can! But also send us the dry track and the reverb return track separate
 {{< faq "For what levels or platforms is the mastering service? " >}}  
 You can choose which platform your desired mastering will be on or choose two platforms of your convenience, otherwise you will get the most suitable level for the requirements these days.
 {{</ faq >}}
+
+{{< faq "How do i contact Ghostie? " >}}  
+Email to ghostieproducer@protonmail.com. {{</ faq >}}
