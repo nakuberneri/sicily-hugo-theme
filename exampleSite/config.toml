@@ -19,6 +19,10 @@ name = "Quick Start"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
+URL = "mixing"
+name = "Mixing"
+weight = "2"
+[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
