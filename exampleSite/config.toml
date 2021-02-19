@@ -36,7 +36,7 @@ name = "FAQ"
 weight = 4
 [[menu.product]]
 URL = "pricing"
-name = "Pricing"
+name = "Production"
 [[menu.product]]
 URL = "platform"
 name = "Platform"
