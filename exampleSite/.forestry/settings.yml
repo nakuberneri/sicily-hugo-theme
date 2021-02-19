@@ -46,7 +46,7 @@ sections:
   match: "**/*"
 - type: directory
   path: exampleSite/content/pricing
-  label: Pricing
+  label: Production
   create: documents
   match: "**/*"
 - type: directory
