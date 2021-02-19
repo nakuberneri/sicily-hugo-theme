@@ -32,5 +32,7 @@ services = ["Up to three percussion tracks", "One bass track and lead", "Two pol
 enable = true
 label = "Try for free"
 link = "#"
+[menu.product]
+weight = 5
 
 +++
