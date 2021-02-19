@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "10"
 summaryLength = "15"
 theme = "Sicily-hugo-theme"
-title = "Sicily"
+title = "Ghostie"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
