@@ -1,7 +1,7 @@
 +++
 description = "This is meta description"
 draft = true
-subtitle = "We have prices for production, mixing and mastering. Scroll down for options."
+subtitle = "We have prices for mixing. Dale boca"
 title = "Mixing"
 [base]
 info = "Perfect for small engineering teams"
