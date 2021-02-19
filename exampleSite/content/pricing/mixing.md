@@ -1,6 +1,5 @@
 +++
 description = "This is meta description"
-draft = true
 subtitle = "We have prices for mixing. Dale boca"
 title = "Mixing"
 [base]
