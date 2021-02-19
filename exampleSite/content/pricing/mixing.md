@@ -1,7 +1,7 @@
 +++
 description = "This is meta description"
 subtitle = "We have prices for production, mixing and mastering. Scroll down for options."
-title = "Pricing-(copy)"
+title = "Mixing"
 [base]
 info = "Perfect for small engineering teams"
 name = "Base"
