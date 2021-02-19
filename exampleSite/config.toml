@@ -56,12 +56,13 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [params.company]
-address = "7657 Cl. 6, Centro"
-city = "Cartago, Valle Del Cauca"
-country = "Colombia"
-email = "contact@sicily.com"
-phone = "+57 315 270 2727"
+address = "Prince George Rd 15"
+city = "Dalston, London"
+country = "UK"
+email = "ghostieproducer@protonmail.com"
+phone = ""
 [params.navigation_button]
 enable = true
 label = "Get it touch"
@@ -87,19 +88,3 @@ preloader = ""
 rol_email = "ghostieproducer@protonmail.com"
 rol_name = "Creative Director"
 rol_representative = "Ghostie"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/cristianmarint"
-title = "twitter"
-[[params.social]]
-icon = "ti-skype"
-link = "#"
-title = "skype"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
