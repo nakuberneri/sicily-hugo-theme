@@ -1,6 +1,5 @@
 +++
 description = "This is meta description"
-draft = true
 subtitle = "We have prices for mixing. Dale boca"
 title = "Mixing"
 [base]
@@ -33,9 +32,5 @@ services = ["Up to three percussion tracks", "One bass track and lead", "Two pol
 enable = true
 label = "Try for free"
 link = "#"
-[menu.main]
-weight = 5
-[menu.product]
-weight = 5
 
 +++
