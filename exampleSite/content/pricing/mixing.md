@@ -33,7 +33,9 @@ enable = true
 label = "Try for free"
 link = "#"
 [menu.main]
-weight = 6
+URL = "mixing"
+name = "Mixing Princing"
+weight = 3
 [menu.product]
 weight = 1
 
