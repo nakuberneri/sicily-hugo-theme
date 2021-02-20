@@ -19,7 +19,7 @@ name = "Quick Start"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
-URL = "mixing2"
+URL = "mixing/mixing2"
 name = "Mixing Config"
 weight = "2"
 [[menu.main]]
