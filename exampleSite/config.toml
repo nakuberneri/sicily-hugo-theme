@@ -10,49 +10,46 @@ title = "Ghostie Producer"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 1
+URL = "about-us"
+name = "About Us"
 [[menu.company]]
 URL = "quick-start"
 name = "Quick Start"
-weight = 2
 [[menu.company]]
-URL = "about-us"
-name = "About Us"
-weight = 3
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.main]]
+URL = "mixing"
+name = "Mixing Config"
+weight = "2"
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
 [[menu.main]]
 URL = "pricing"
 name = "Production Pricing"
 weight = 2
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.product]]
 URL = "faq"
 name = "FAQ"
-weight = 3
-[[menu.product]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 2
-[[menu.product]]
-URL = "platform"
-name = "Platform"
 weight = 4
 [[menu.product]]
 URL = "pricing"
 name = "Production"
-weight = 5
+[[menu.product]]
+URL = "platform"
+name = "Platform"
+[[menu.product]]
+URL = "faq"
+name = "FAQ"
+[[menu.product]]
+URL = "privacy-policy"
+name = "Privacy Policy"
 [params]
 author = "cristianmarint"
 contact_form_action = "#"
