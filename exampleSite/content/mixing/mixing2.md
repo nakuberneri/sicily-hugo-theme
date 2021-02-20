@@ -32,5 +32,9 @@ services = []
 enable = false
 label = ""
 link = ""
+[menu.main]
+URL = "mixing"
+name = "Mixing Diego"
+weight = 3
 
 +++
