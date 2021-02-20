@@ -34,7 +34,7 @@ label = "Try for free"
 link = "#"
 [menu.main]
 URL = "mixing"
-name = "Mixing Princing"
+name = "Mixing Campeoning"
 weight = 3
 [menu.product]
 weight = 1
