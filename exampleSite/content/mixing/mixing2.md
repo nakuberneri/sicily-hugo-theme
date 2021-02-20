@@ -34,7 +34,7 @@ label = ""
 link = ""
 [menu.main]
 URL = "mixing"
-name = "Mixing"
+name = "Mixing Dale Boca"
 weight = 3
 
 +++
