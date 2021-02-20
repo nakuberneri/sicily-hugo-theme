@@ -1,6 +1,6 @@
 +++
-description = ""
-subtitle = ""
+description = "dale boca dale mesi"
+subtitle = "acá toda la data wach"
 title = "Mixing Pricing Capo"
 [base]
 info = ""
