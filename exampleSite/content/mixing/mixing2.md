@@ -32,9 +32,5 @@ services = []
 enable = false
 label = ""
 link = ""
-[menu.main]
-URL = "mixing"
-name = "Mixing Dale Boca"
-weight = 3
 
 +++
