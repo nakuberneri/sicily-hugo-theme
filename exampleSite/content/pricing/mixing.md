@@ -32,10 +32,6 @@ services = ["Up to three percussion tracks", "One bass track and lead", "Two pol
 enable = true
 label = "Try for free"
 link = "#"
-[menu.main]
-URL = "mixing"
-name = "Mixing Campeoning"
-weight = 3
 [menu.product]
 weight = 1
 
