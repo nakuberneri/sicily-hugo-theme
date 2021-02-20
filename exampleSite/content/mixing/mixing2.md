@@ -1,7 +1,7 @@
 +++
 description = ""
 subtitle = ""
-title = "Mixing Pricing"
+title = "Mixing Pricing Capo"
 [base]
 info = ""
 name = ""
